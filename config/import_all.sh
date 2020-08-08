@@ -23,6 +23,7 @@ source devops/containers.sh
 
 # System
 source system/audio_video.sh
+source system/cloudshell_lcd.sh
 source system/security.sh
 source system/terminal.sh
 source system/utilities.sh
