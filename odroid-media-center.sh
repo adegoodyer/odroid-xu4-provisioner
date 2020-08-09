@@ -26,5 +26,8 @@ install_docker_compose
 install_media_codecs
 install_kodi
 
+# Security
+enable_firewall
+
 # Clean system before finishing
 system_cleanup
